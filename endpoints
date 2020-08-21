@@ -1,0 +1,11 @@
+You can access farmers data as a list from this link:
+https://vbtproject1-aee0a.firebaseio.com/farmer.json
+
+You can access markets data as a list from this link:
+https://vbtproject1-aee0a.firebaseio.com/market.json
+
+You can access products(food) data as a list from this link:
+https://vbtproject1-aee0a.firebaseio.com/products.json
+
+You can access transportations data as a list from this link:
+https://vbtproject1-aee0a.firebaseio.com/transportation.json
